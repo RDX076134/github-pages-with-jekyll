@@ -1,2 +1,4 @@
-title: Geonegineering
-yyyy-mm-dd: 2021-06-20
+---
+title: "Welcome to my blog"
+date: 2021-06-20
+---
